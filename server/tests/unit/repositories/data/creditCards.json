@@ -1,0 +1,22 @@
+[
+  {
+    "number": "0000-0000-0000-0000",
+    "card_type": "Visa"
+  },
+  {
+    "number": "0000-0000-0000-0001",
+    "card_type": "Mastercard"
+  },
+  {
+    "number": "0000-0000-0000-0002",
+    "card_type": "Discover"
+  },
+  {
+    "number": "0000-0000-0000-0003",
+    "card_type": "Solo"
+  },
+  {
+    "number": "0000-0000-0000-0004",
+    "card_type": "Electron"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "username": "customer_1",
+    "password": "password_1",
+    "phone": "000-000-00-01",
+    "age": 10
+  },
+  {
+    "username": "customer_2",
+    "password": "password_2",
+    "phone": "000-000-00-02",
+    "age": 20
+  },
+  {
+    "username": "customer_3",
+    "password": "password_3",
+    "phone": "000-000-00-03",
+    "age": 30
+  },
+  {
+    "username": "customer_4",
+    "password": "password_4",
+    "phone": "000-000-00-04",
+    "age": 40
+  },
+  {
+    "username": "customer_5",
+    "password": "password_5",
+    "phone": "000-000-00-05",
+    "age": 50
+  }
+]

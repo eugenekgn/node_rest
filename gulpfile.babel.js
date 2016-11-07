@@ -1,6 +1,5 @@
-/**
- * Created by eugenekagan on 11/2/16.
- */
+'use strict';
+
 import gulp from 'gulp';
 import del from 'del';
 import path from 'path';

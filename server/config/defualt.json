@@ -1,0 +1,31 @@
+{
+  "server": {
+    "port": 3000,
+    "host": "http://krg.customer.io",
+    "isMultithreaded": false
+  },
+  "database": {
+    "dialect": "mysql",
+    "database": "customer_inventory",
+    "host": "127.0.0.1",
+    "username": "root",
+    "password": "root",
+    "port": 3306,
+    "migrationStorage": "sequelize",
+    "migrationStorageTableName": "sequelize_meta",
+    "seederStorage": "sequelize",
+    "seederStorageTableName": "sequelize_data",
+    "pool": {
+      "maxConnections": 100,
+      "maxIdleTime": 10000
+    }
+  },
+  "logger": {
+    "filesPath": "/logs",
+    "appLogFilePath": "/logs/app_log",
+    "transports": [
+      "dailyRotateFile",
+      "console"
+    ]
+  }
+}

@@ -1,6 +1,4 @@
-/**
- * Created by eugenekagan on 11/2/16.
- */
+'use strict';
 
 class Config {
   constructor() {
